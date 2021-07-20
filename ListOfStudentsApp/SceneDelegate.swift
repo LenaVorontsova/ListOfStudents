@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  ListOfStudentsApp
-//
-//  Created by VORONTSOV Daniil on 19.07.2021.
-//
 
 import UIKit
 
